@@ -97,10 +97,13 @@ StyleCopReport.xml
 *.pidb
 *.svclog
 *.scc
-.vcxproj
-.vcxproj.filters
-.sln
-.gitattributes
+
+## files
+*.sln
+**/*.vcxproj
+**/*.vcxproj.*
+**/*.i
+**/*.obj
 
 # Chutzpah Test files
 _Chutzpah*
