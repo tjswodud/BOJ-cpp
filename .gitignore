@@ -99,6 +99,7 @@ StyleCopReport.xml
 *.scc
 
 ## files
+*.gitattributes
 *.sln
 **/*.vcxproj
 **/*.vcxproj.*
